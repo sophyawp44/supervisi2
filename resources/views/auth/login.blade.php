@@ -66,7 +66,7 @@
             <div class="overlay"></div>
             <div class="content text">
               <h1 class="heading">Aplikasi Supervisi</h1>
-              <p>Renata Rahmawatie</p>
+              <p>Sophya Wahyuni Putri</p>
             </div>
           </div>
           <div class="clearfix"></div>
